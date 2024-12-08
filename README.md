@@ -1,6 +1,8 @@
 # Hotel Booking Cancellation Tendency
 ### Created By : Ivanka Larasati Kusumadewi
 
+## NOTES : MODEL YANG SUDAH DISIMPAN **.PKL ADA DI RELEASE** KARENA **UKURANNYA LEBIH DARI 25MB**
+
 **Context**  
 Data ini berasal dari sistem manajemen pemesanan hotel dan mencakup berbagai fitur yang dapat memberikan wawasan tentang perilaku pelanggan dan pengelolaan pemesanan hotel. Setiap baris data mencerminkan sebuah pemesanan dengan informasi terkait pelanggan, tipe kamar yang dipesan, jenis permintaan khusus, status pembatalan, serta perubahan yang dilakukan pada pemesanan. Data ini bertujuan untuk menganalisis faktor-faktor yang mempengaruhi pembatalan pemesanan dan mengidentifikasi pola-pola yang dapat digunakan untuk memprediksi kemungkinan pembatalan di masa depan.
 
